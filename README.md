@@ -1,4 +1,24 @@
-## Hi there 👋
+# Hi there 👨‍💻
+
+Frontend developer building small web services.
+
+## Projects
+
+### StableWiki
+Open-source wiki engine built with Next.js, TypeScript, and PostgreSQL.
+
+Live: https://sidwiki.com  
+Repo: https://github.com/disfordave/stablewiki
+
+### Parliament Seats
+Parliament coalition simulator inspired by election broadcast graphics.
+
+Live: https://parliame.com  
+Repo: https://github.com/disfordave/parliament-seats
+
+## Tech
+
+React • Next.js • TypeScript • Zustand • TanStack Query • PostgreSQL
 
 <!--
 **disfordave/disfordave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
