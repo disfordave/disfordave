@@ -22,7 +22,7 @@ Repo: https://github.com/disfordave/parliament-seats
 React • Next.js • TypeScript • Zustand • TanStack Query • PostgreSQL
 
 ### Extra Hobby
-C# • Unity • Swift • Python (from Uni)
+Swift • Python (from Uni)
 
 <!--
 **disfordave/disfordave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
