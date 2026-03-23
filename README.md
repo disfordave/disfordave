@@ -19,7 +19,7 @@ Repo: https://github.com/disfordave/parliament-seats
 ## Tech
 
 ### Web
-React • Next.js • TypeScript • Zustand • TanStack Query • PostgreSQL
+React • Next.js • Tailwind CSS • TypeScript • Zustand • TanStack Query • PostgreSQL
 
 ### Extra Hobby
 Swift • SwiftUI
