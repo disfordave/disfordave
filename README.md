@@ -1,6 +1,6 @@
 # Hi there 👨‍💻
 
-Frontend developer building small web services.
+Frontend developer building web services.
 
 ## Projects
 
