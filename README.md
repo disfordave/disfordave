@@ -4,6 +4,11 @@ Frontend developer building web services.
 
 ## Projects
 
+### 🔖 SaveIt - Save Links & Notes
+Save links and your thoughts without clutter, formatting, or distractions.
+
+Link: [App Store](https://apps.apple.com/app/id6760583321)
+
 ### 🔭 StableWiki
 Open-source wiki engine built with Next.js, TypeScript, and PostgreSQL.
 
@@ -21,7 +26,7 @@ Repo: https://github.com/disfordave/parliament-seats
 ### Web
 React • Next.js • Tailwind CSS • TypeScript • Zustand • TanStack Query • PostgreSQL
 
-### Extra Hobby
+### Native
 Swift • SwiftUI
 
 <!--
