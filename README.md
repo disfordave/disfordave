@@ -1,6 +1,6 @@
 # Hi there 👨‍💻
 
-Frontend developer building web services.
+Software Engineer.
 
 ## Projects
 
