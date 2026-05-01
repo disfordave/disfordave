@@ -23,11 +23,11 @@ Repo: https://github.com/disfordave/parliament-seats
 
 ## Tech
 
+### Native
+Swift • SwiftUI • UIKit
+
 ### Web
 React • Next.js • Tailwind CSS • TypeScript • Zustand • TanStack Query • PostgreSQL
-
-### Native
-Swift • SwiftUI
 
 <!--
 **disfordave/disfordave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
