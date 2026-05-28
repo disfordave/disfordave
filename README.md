@@ -7,13 +7,14 @@ Software Engineer.
 ### 🔖 SaveIt - Save Links & Notes
 Save links and your thoughts without clutter, formatting, or distractions.
 
-Link: [App Store](https://apps.apple.com/app/id6760583321)
+* Link: [App Store](https://apps.apple.com/app/id6760583321) 
+* Official website: https://saveitbydave.com
 
 ### 🔭 StableWiki
 Open-source wiki engine built with Next.js, TypeScript, and PostgreSQL.
 
-Live: https://sidwiki.com  
-Repo: https://github.com/disfordave/stablewiki
+* Live: https://sidwiki.com  
+* Repo: https://github.com/disfordave/stablewiki
 
 ## Tech
 
