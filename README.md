@@ -16,13 +16,25 @@ Open-source wiki engine built with Next.js, TypeScript, and PostgreSQL.
 * Live: https://sidwiki.com  
 * Repo: https://github.com/disfordave/stablewiki
 
-## Tech
+### 🏛️ Parliament Seats
+Interactive coalition simulator and parliamentary seat visualizer.
 
-### Native
-Swift • SwiftUI • UIKit
+* Live: https://parl.hsw.is
+* Repo: https://github.com/disfordave/parliament-seats
+
+### 📚 Projet Provence
+Mes notes de français, transformées petit à petit en site web.
+
+* Live: https://francais.hsw.is
+* Repo: https://github.com/disfordave/provence
+
+## Tech
 
 ### Web
 React • Next.js • Tailwind CSS • TypeScript • Zustand • TanStack Query • PostgreSQL
+
+### Native
+Swift • SwiftUI • UIKit
 
 <!--
 **disfordave/disfordave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
