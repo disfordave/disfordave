@@ -25,7 +25,7 @@ Interactive coalition simulator and parliamentary seat visualizer.
 ### 📚 Projet Provence
 Mes notes de français, transformées petit à petit en site web.
 
-* Live: https://francais.hsw.is
+* En direct: https://francais.hsw.is
 * Repo: https://github.com/disfordave/provence
 
 ### ☀️ ThemeFlip
