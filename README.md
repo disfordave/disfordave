@@ -32,6 +32,7 @@ Mes notes de français, transformées petit à petit en site web.
 A lightweight React theme toggle for light, dark, and system themes. 
 
 * Repo: https://github.com/disfordave/themeflip
+* npm: https://www.npmjs.com/package/themeflip
 
 ## Tech
 
