@@ -28,6 +28,11 @@ Mes notes de français, transformées petit à petit en site web.
 * Live: https://francais.hsw.is
 * Repo: https://github.com/disfordave/provence
 
+### ☀️ themeflip
+A lightweight React theme toggle for light, dark, and system themes. 
+
+* Repo: https://github.com/disfordave/themeflip
+
 ## Tech
 
 ### Web
