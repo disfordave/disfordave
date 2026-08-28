@@ -2,37 +2,39 @@
 
 Software Engineer.
 
+* Link: [hsw.is](https://hsw.is)
+
 ## Projects
 
 ### 🔖 SaveIt - Save Links & Notes
 Save links and your thoughts without clutter, formatting, or distractions.
 
 * Link: [App Store](https://apps.apple.com/app/id6760583321) 
-* Official website: https://saveitbydave.com
+* Official website: [saveitbydave.com](https://saveitbydave.com)
 
 ### 🔭 StableWiki
 Open-source wiki engine built with Next.js, TypeScript, and PostgreSQL.
 
-* Live: https://sidwiki.com  
-* Repo: https://github.com/disfordave/stablewiki
+* Live: [sidwiki.com](https://sidwiki.com)  
+* Repo: [disfordave/stablewiki](https://github.com/disfordave/stablewiki)
 
 ### 🏛️ Parliament Seats
 Interactive coalition simulator and parliamentary seat visualizer.
 
-* Live: https://parl.hsw.is
-* Repo: https://github.com/disfordave/parliament-seats
+* Live: [parl.hsw.is](https://parl.hsw.is)
+* Repo: [disfordave/parliament-seats](https://github.com/disfordave/parliament-seats)
 
 ### 📚 Projet Provence
 Mes notes de français, transformées petit à petit en site web.
 
-* En direct: https://francais.hsw.is
-* Repo: https://github.com/disfordave/provence
+* En direct: [francais.hsw.is](https://francais.hsw.is)
+* Repo: [disfordave/provence](https://github.com/disfordave/provence)
 
 ### ☀️ ThemeFlip
 A lightweight React theme toggle for light, dark, and system themes. 
 
-* Repo: https://github.com/disfordave/themeflip
-* npm: https://www.npmjs.com/package/themeflip
+* Repo: [disfordave/themeflip](https://github.com/disfordave/themeflip)
+* npm: [themeflip](https://www.npmjs.com/package/themeflip)
 
 ## Tech
 
