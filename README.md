@@ -1,7 +1,3 @@
-# Hi there 👨‍💻
-
-Software Engineer.
-
 * Link: [hsw.is](https://hsw.is)
 
 ## Projects
