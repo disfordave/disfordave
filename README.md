@@ -1,4 +1,4 @@
-* Link: [hsw.is](https://hsw.is)
+> Link: [hsw.is](https://hsw.is)
 
 ## Projects
 
